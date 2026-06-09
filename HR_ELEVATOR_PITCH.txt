@@ -1,0 +1,5 @@
+### RESUME / PORTFOLIO BULLET POINTS
+
+- Architected a cloud‑native Flask application that ingests user datasets via secure file uploads, extracts ZIP archives using `tempfile` and `zipfile`, and streams processed data to the Groq LLM API for real‑time, GPU‑free textual analysis.  
+- Integrated OAuth authentication for GitHub and LinkedIn, automating the creation of Markdown reports from LLM outputs and publishing them to remote repositories and professional networks with minimal latency.  
+- Deployed the end‑to‑end service on Vercel using a custom `vercel.json` build configuration, enabling zero‑downtime updates, robust session handling, and globally scalable performance across edge locations.
